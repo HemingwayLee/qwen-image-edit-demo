@@ -1,0 +1,12 @@
+diffusers>=0.33.0
+transformers>=4.49.0
+accelerate>=0.30.0
+huggingface-hub>=0.23.0
+Pillow>=10.0.0
+torchao>=0.10.0
+gguf>=0.10.0
+safetensors>=0.4.0
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+python-multipart>=0.0.9
+aiofiles>=23.2.0
